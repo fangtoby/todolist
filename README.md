@@ -1,10 +1,10 @@
 # todolist
 周期：2021-06-28 ～ 2021-07-02（周五之前提交代码）
 
-###1.  初始化工程（https://umijs.org/zh-CN/docs/getting-started）
-###2. 添加新页面src/pages/todo
-###3. 按照demo.png图片，完成页面。
-###4. 页面包含如下功能：
+### 1. 初始化工程（https://umijs.org/zh-CN/docs/getting-started）
+### 2. 添加新页面src/pages/todo
+### 3. 按照demo.png图片，完成页面。
+### 4. 页面包含如下功能：
 1.  添加新的待办事项（Add new task）；
 2.  待办事项列表
 3.  列表功能包含：可编辑、逐行删除、全部删除、多选删除、可单选、多选 、事项完成状态变更。
